@@ -21,7 +21,7 @@ I was part of _nology 12 weeks training which I covered HTML, CSS, SCSS, JS, REA
 
 <h2>🔗 Connect with me</h2>
 
-<a href="linkedin.com/in/ashwini-madapura-946211214"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="linkedIn logo">
+<a href="https://www.linkedin.com/in/ashwini-madapura-946211214/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="linkedIn logo">
 </a>
 
 <h2> 📈 My Stats </h2>
